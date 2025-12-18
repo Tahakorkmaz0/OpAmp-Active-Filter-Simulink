@@ -122,27 +122,11 @@ The simulation successfully demonstrates the band-pass filtering characteristics
    sim('opamp_filter_model.slx')
    ```
 
-## 📁 Documentation
 
-Detailed visual analysis and simulation waveforms (Scope outputs) can be found in the `/docs` folder:
-
-- Circuit schematics
-- Bode plots
-- Time-domain waveforms
-- Frequency response analysis
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Your Name - Initial work
-
+- Taha korkmaz 
 ## 🙏 Acknowledgments
 
 - LM741 Op-Amp datasheet and specifications
@@ -152,3 +136,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note:** This project is for educational purposes and demonstrates fundamental concepts in analog signal processing and active filter design.
+
