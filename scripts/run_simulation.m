@@ -1,0 +1,1 @@
+sim('proje222_sonnnn.slx');
